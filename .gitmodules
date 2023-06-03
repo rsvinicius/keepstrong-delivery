@@ -1,18 +1,18 @@
 [submodule "keepstrong-payments"]
 	path = keepstrong-payments
-	url = https://github.com/rsvinicius/keepstrong-payments
+	url = git@github.com:rsvinicius/keepstrong-payments.git
 [submodule "keepstrong-migrations"]
 	path = keepstrong-migrations
-	url = https://github.com/rsvinicius/keepstrong-migrations
+	url = git@github.com:rsvinicius/keepstrong-migrations.git
 [submodule "keepstrong-orders"]
 	path = keepstrong-orders
-	url = https://github.com/rsvinicius/keepstrong-orders
+	url = git@github.com:rsvinicius/keepstrong-orders.git
 [submodule "keepstrong-rates"]
 	path = keepstrong-rates
-	url = https://github.com/rsvinicius/keepstrong-rates
+	url = git@github.com:rsvinicius/keepstrong-rates.git
 [submodule "keepstrong-server"]
 	path = keepstrong-server
-	url = https://github.com/rsvinicius/keepstrong-server
+	url = git@github.com:rsvinicius/keepstrong-server.git
 [submodule "keepstrong-gateway"]
 	path = keepstrong-gateway
-	url = https://github.com/rsvinicius/keepstrong-gateway
+	url = git@github.com:rsvinicius/keepstrong-gateway.git
